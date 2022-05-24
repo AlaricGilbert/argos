@@ -1,0 +1,6 @@
+[submodule "argos-client"]
+	path = argos-client
+	url = git@github.com:AlaricGilbert/argos-client.git
+[submodule "argos-core"]
+	path = argos-core
+	url = git@github.com:AlaricGilbert/argos-core.git
